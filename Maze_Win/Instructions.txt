@@ -1,0 +1,3 @@
+The game is not deployed so to run it.
+add it as a project in visual studio (any version)
+compile run the maze.cpp file
